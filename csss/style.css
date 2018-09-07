@@ -2,7 +2,7 @@ body {
     background-image: url("back.jpeg");
 }
 h1 {
-    color: blue;
+    color: yellow;
 }
 p {
     color: red;
@@ -14,4 +14,16 @@ h1 {
 }
 p {
     color: red;
+}
+.test-box {
+    border: 2px solid red;
+  }
+  .test-box {
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: blacks;
+  }
+p {
+  font-size: 20px;
 }
