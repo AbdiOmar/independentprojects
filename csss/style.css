@@ -1,29 +1,18 @@
-body {
-    background-image: url("back.jpeg");
+*
+{
+  margin: 0;
+  padding: 0;
 }
-h1 {
-    color: yellow;
+header
+{
+  background-image: url(images/back.jpeg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
 }
-p {
-    color: red;
-}
+.main-nav
+{
+  float: right;
 
-}
-h1 {
-    color: blue;
-}
-p {
-    color: red;
-}
-.test-box {
-    border: 2px solid red;
-  }
-  .test-box {
-    border: 2px solid red;
-    padding: 6px;
-    margin: 20px;
-    background-color: blacks;
-  }
-p {
-  font-size: 20px;
+
 }
