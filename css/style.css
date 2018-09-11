@@ -6,7 +6,7 @@ body {
 }
 h1
 {
-  color: black;
+  color: white;
   text-transform: uppercase;
   font-size: 70px;
   text-align: center;
@@ -40,7 +40,6 @@ p
 .main-nav li.active a
 {
   border: 3px solid white;
-
 }
 .main-nav li a:hover
 {
@@ -51,5 +50,4 @@ border: 3px solid white;
 body
 {
 font-family: monospace;
-}
 }
