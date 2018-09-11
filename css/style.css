@@ -1,8 +1,55 @@
-.test-box {
-  border: 2px solid red;
-  padding: 6px;
-  margin: 20px;
+body {
+    background-color: lightblue;
 }
-img {
- float: left;
+body {
+    background-image: url("https://dmi3w0goirzgw.cloudfront.net/gallery-images/original/55000/100/55133.jpg");
+}
+h1
+{
+  color: black;
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+
+}
+p
+{
+  color: white;
+  text-transform:inherit;
+  font-size: 20px;
+  text-align:right;
+
+}
+.main-nav
+{
+  float: right;
+
+}
+.main-nav li
+{
+  display: inline-block;
+}
+.main-nav li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 6x 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15PX;
+}
+.main-nav li.active a
+{
+  border: 3px solid white;
+
+}
+.main-nav li a:hover
+{
+border: 3px solid white;
+}
+
+}
+body
+{
+font-family: monospace;
+}
 }
