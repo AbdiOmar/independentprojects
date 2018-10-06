@@ -1,0 +1,39 @@
+h1
+{
+  color: white;
+  text-transform: uppercase;
+  font-size: 80px;
+  text-align: center;
+
+}
+body {
+    background-image: url("https://dmi3w0goirzgw.cloudfront.net/gallery-images/original/55000/100/55133.jpg");
+    background-repeat:  no-repeat;
+    background-size: cover;
+p
+{
+  color: white;
+  text-transform:none;
+  font-size: 70px;
+  text-align:center;
+
+}
+ol
+{
+  color: white;
+  text-transform:none;
+  font-size: 40px;
+  text-align:left;
+
+  {
+    color: white;
+    text-transform:none;
+    font-size: 70px;
+    text-align:left;
+  }
+  p
+  {
+    color: white;
+    text-transform:none;
+    font-size: 40px;
+    text-align:right;
