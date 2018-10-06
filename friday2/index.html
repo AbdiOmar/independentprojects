@@ -3,19 +3,30 @@
   <title>
 Triangle Tracker
   </title>
+  <script src="mycode.js"></script>
  </head>
 <body>
 <h1>Try out Here and see what type of Triangle you have,
   <br>triangles fall under either of these
 </h1>
-<ol>
+<link href="CSS/styles.css" rel="stylesheet" type="text/css">
+<ul>
 <li>Equilateral Triangle with all sides Equal</li>
 <li>iscoceles Triangle with only 2 sides Equal</li>
 <li>scalene Triangle</li>
 <li>Not a Triangle if the Sum of 2 sides is less than or Equal to the third side of the triangle</li>
-</ol>
+</ul>
+<form>
+  First side:<br>
+  <input type="number" id="First_side"><br>
+  Second side:<br>
+  <input type="number" id="Second_side"><br>
+  Third side:<br>
+    <input type="number"  id="Third_side"><br>
+    <br>
+    <button type="button" onClick="triangle()">Submit</button>
+    <script src="mycode.js"></script>
+</form>
+<p class="message" id="message"></p>
 </body>
-
-
-
 </html>

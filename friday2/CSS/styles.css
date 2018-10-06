@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1lduqh_pDJAcXDV3-RgBgrkKLqmm3Uvj4vyZK0IkQj8dBWXwkLA");
+    background-repeat:  no-repeat;
+    background-size:cover;
+    text-align: center;
+    padding: inherit;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    list-style-position:none;
+
+h1 {
+      color: white;
+      text-transform:inherit;
+      font-size: 30px;
+      text-align:right;
+
+.message{
+  color: #333;
+  font-size: 40px;
+}
